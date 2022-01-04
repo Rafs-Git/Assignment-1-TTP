@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-color: rosybrown;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#baby-staring-at-screen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
