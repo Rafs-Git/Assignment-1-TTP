@@ -79,3 +79,8 @@ p {
     display: block;
     margin: 20px auto;
 }
+
+#links {
+    text-align: left;
+    color: greenyellow;
+}
