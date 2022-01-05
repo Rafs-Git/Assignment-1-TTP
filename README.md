@@ -2,7 +2,7 @@
 Let Us Raise Some Money!!
 
 
-Our Organization Name Is: 
+Our Organization Name Is: Baby Trainers
 
 Our Goal is:
     We want to teach newborn babies how to code straight after birth. 
