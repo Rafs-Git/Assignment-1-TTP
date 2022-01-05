@@ -12,8 +12,12 @@ ul {
 }
 #address {
     width: 400px;
-    margin-left: 1075px;
+    margin-left: auto;
+    margin-right: auto;
 }
 footer {
-    color: lightgrey;
+    color: rgb(230, 220, 220);
+}
+hr {
+    border: 3px solid black;
 }
