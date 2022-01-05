@@ -1,3 +1,19 @@
 h1 {
-    color: red;
+    color: darkred;
+}
+body {
+    text-align: center;
+    background-color: #588C94;
+}
+ul {
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+#address {
+    width: 400px;
+    margin-left: 1075px;
+}
+footer {
+    color: lightgrey;
 }
