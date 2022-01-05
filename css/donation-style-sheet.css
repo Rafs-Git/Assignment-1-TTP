@@ -1,0 +1,23 @@
+h1 {
+    color: darkred;
+}
+body {
+    text-align: center;
+    background-color: #588C94;
+}
+ul {
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+#address {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    color: rgb(230, 220, 220);
+}
+hr {
+    border: 3px solid black;
+}
