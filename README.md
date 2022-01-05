@@ -9,3 +9,5 @@ Our Goal is:
 
 
 Members of this established organization is Max and Zijnhui and Rafid
+
+NOTE: THIS IS COMPLETELY SATIRE
