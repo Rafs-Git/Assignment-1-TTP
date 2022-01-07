@@ -10,6 +10,26 @@
 
 nav > h2{
     margin-bottom:100px;
+    display: inline-block;
+    position: top 
+}
+
+.top-nav {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    position: relative
+}
+.top-nav > li {   
+    margin-left: 230px   
+}
+
+.top-nav a {
+    display: flex;
+    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: none;
+    
 }
 
  .wallpaper {
